@@ -1,2 +1,1 @@
-# smartBase
-with lidar
+# RoterySmartBase
